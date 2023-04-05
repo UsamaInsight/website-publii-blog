@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Usama Insight",
+    "description": "",
+    "home_page_url": "https://usamainsight.github.io/website-publii-blog",
+    "feed_url": "https://usamainsight.github.io/website-publii-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Usama Khan"
+    },
+    "items": [
+        {
+            "id": "https://usamainsight.github.io/website-publii-blog/hey.html",
+            "url": "https://usamainsight.github.io/website-publii-blog/hey.html",
+            "title": "Hey ",
+            "summary": "Life is like a test&nbsp;",
+            "content_html": "\n  <p>\n    Life is like a test&nbsp;\n  </p>",
+            "author": {
+                "name": "Usama Khan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-05T19:24:53+05:00",
+            "date_modified": "2023-04-05T19:24:53+05:00"
+        }
+    ]
+}
